@@ -15,3 +15,5 @@ python Supervisor.py
 python Department.py
 python Customer.py
 ```
+
+Please DO NOT COPY this project
