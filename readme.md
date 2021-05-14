@@ -1,6 +1,6 @@
 # Secured Purchase Order
 
-Please DO NOT COPY this project
+<h2>Please DO NOT COPY this project</h2>
 
 Securing PUrchase Order using RSA encryption and socket programming.
 
