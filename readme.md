@@ -1,5 +1,7 @@
 # Secured Purchase Order
 
+Please DO NOT COPY this project
+
 Securing PUrchase Order using RSA encryption and socket programming.
 
 <h3> Build Requirements </h3>
@@ -15,5 +17,3 @@ python Supervisor.py
 python Department.py
 python Customer.py
 ```
-
-Please DO NOT COPY this project
