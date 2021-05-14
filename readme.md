@@ -1,7 +1,5 @@
 # Secured Purchase Order
 
-<h2>Please DO NOT COPY this project</h2>
-
 Securing PUrchase Order using RSA encryption and socket programming.
 
 <h3> Build Requirements </h3>
